@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.local
+# Lead log volume, only inside the backend service (frontend/src/data is source).
+/backend/data/
+.DS_Store
+npm-debug.log*
